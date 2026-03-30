@@ -79,13 +79,13 @@ The real impact comes from:
 ![Dashboard](Airtable.png)
 
 ### 🗂️ Airtable System
-![Airtable](images/airtable.png)
+![Airtable](Airtable.png)
 
 ### ⚙️ Automation Workflow
-![Automation](images/make.png)
+![Automation](Automatizacion con Make.png)
 
-### 🧾 Invoice Example
-![Invoice](images/invoice.png)
+### 🧾 Invoice 
+![Invoice](Factura Enviada a Correo.png)
 
 ---
 
