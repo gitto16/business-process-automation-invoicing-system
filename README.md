@@ -76,7 +76,7 @@ The real impact comes from:
 ## 🖼️ System Overview
 
 ### 📊 Dashboard
-![Dashboard](Airtable.png)
+![Dashboard](Dashboard.png)
 
 ### 🗂️ Airtable System
 ![Airtable](Airtable.png)
