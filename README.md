@@ -82,10 +82,10 @@ The real impact comes from:
 ![Airtable](Airtable.png)
 
 ### ⚙️ Automation Workflow
-![Automation](Automatizacion con Make.png)
+![Automation](AutomatizacionconMake.png)
 
 ### 🧾 Invoice 
-![Invoice](Factura Enviada a Correo.png)
+![Invoice](FacturaEnviadaaCorreo.png)
 
 ---
 
